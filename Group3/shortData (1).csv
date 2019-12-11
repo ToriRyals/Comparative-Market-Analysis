@@ -1,0 +1,11 @@
+street,city,zipcode,beds,baths,sq__ft,price,Property_ID
+Property1,City1,95838,2,1,836,59222,1
+Property2,City2,95839,3,1,1167,68212,2
+Property3,City3,95840,2,1,796,68880,3
+Property4,City4,95841,2,1,852,69307,4
+Property5,City5,95842,2,1,797,81900,5
+Property6,City6,95843,3,1,1122,89921,6
+Property7,City7,95844,3,2,1104,90895,7
+Property8,City8,95845,3,1,1177,91002,8
+Property9,City9,95846,2,2,941,94905,9
+Property10,City10,95847,3,2,1146,98937,10
